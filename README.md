@@ -4,7 +4,7 @@
 
 [![DCS Mission Manager Screenshot][product-screenshot]](https://github.com/Camble/DCS-Mission-Manager/releases)
 
-DCS Mission Manager is a tool for managing and manpulating DCS Mission files.
+DCS Mission Manager is a tool for managing and manipulating DCS Mission files.
 
 ## Roadmap
 
