@@ -10,6 +10,10 @@ DCS Mission Manager is a tool for managing and manipulating DCS Mission files.
 
 See [releases](https://github.com/Camble/DCS-Mission-Manager/releases) for download links.
 
+## Known Issues
+
+- Currently only looks for Missions in `C:\Users\<username>\Saved Games\DCS\Missions`
+
 ## Roadmap
 
 - [ ] Automatic mission backup before edit
