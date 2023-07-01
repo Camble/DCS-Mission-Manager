@@ -12,12 +12,12 @@ See [releases](https://github.com/Camble/DCS-Mission-Manager/releases) for downl
 
 ## Known Issues
 
-- Currently only looks for Missions in `C:\Users\<username>\Saved Games\DCS\Missions`
+- Detected or chosen folders cannot be changed yet. Settings can be cleared by deleting the `user.config` file from `%AppData%\Local\DCSMissionManager`
 
 ## Roadmap
 
 - [ ] Automatic mission backup before edit
-- [ ] Copy & paste weather/cloud presets between missions
+- [x] Copy & paste weather/cloud presets between missions
 - [ ] Generate weather variations of a single mission
 - [ ] Mission briefing editor/generator
 - [ ] Better file/folder browser
