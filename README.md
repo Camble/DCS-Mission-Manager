@@ -8,7 +8,7 @@ DCS Mission Manager is a tool for managing and manipulating DCS Mission files.
 
 ## Most Recent Changes
 
-- Fixed issue where pasted date & time was not being saved.
+- Display error MessageBox when exception occurs
 
 ## Getting Started
 
