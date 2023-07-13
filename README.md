@@ -8,6 +8,13 @@ DCS Mission Manager is a tool for managing and manipulating DCS Mission files.
 
 ## Most Recent Changes
 
+### v0.3.0
+
+- Add background images for some DCS maps
+- Warn on save if there was an issue loading a mission file
+
+### v0.2.1
+
 - Display error MessageBox when exception occurs
 
 ## Getting Started
