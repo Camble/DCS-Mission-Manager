@@ -8,6 +8,11 @@ DCS Mission Manager is a tool for managing and manipulating DCS Mission files.
 
 ## Most Recent Changes
 
+### v0.3.1
+
+- Add background images for Sinai, Normandy & The Channel
+- Fixed: mission can't be parsed if it contains script with new line characters
+
 ### v0.3.0
 
 - Add background images for some DCS maps
