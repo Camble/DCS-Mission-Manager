@@ -8,14 +8,19 @@ DCS Mission Manager is a tool for managing and manipulating DCS Mission files.
 
 ## Most Recent Changes
 
+### v0.4.0
+
+- Vastly improved load times by only loading mission data when selected
+- Added icons to the missions list view
+
 ### v0.3.1
 
-- Add background images for Sinai, Normandy & The Channel
+- Added background images for Sinai, Normandy & The Channel
 - Fixed: mission can't be parsed if it contains script with new line characters
 
 ### v0.3.0
 
-- Add background images for some DCS maps
+- Added background images for some DCS maps
 - Warn on save if there was an issue loading a mission file
 
 ### v0.2.1
@@ -40,4 +45,4 @@ See [releases](https://github.com/Camble/DCS-Mission-Manager/releases) for downl
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-[product-screenshot]: https://github.com/Camble/DCS-Mission-Manager/blob/main/screenshot1.png
+[product-screenshot]: https://github.com/Camble/DCS-Mission-Manager/blob/main/screenshot-0.4.0.png
