@@ -8,6 +8,10 @@ DCS Mission Manager is a tool for managing and manipulating DCS Mission files.
 
 ## Most Recent Changes
 
+### v0.5.0
+
+- Added tabbed view for opening multiple missions
+
 ### v0.4.0
 
 - Vastly improved load times by only loading mission data when selected
@@ -45,4 +49,4 @@ See [releases](https://github.com/Camble/DCS-Mission-Manager/releases) for downl
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-[product-screenshot]: https://github.com/Camble/DCS-Mission-Manager/blob/main/screenshot-0.4.0.png
+[product-screenshot]: https://github.com/Camble/DCS-Mission-Manager/blob/main/screenshot-0.5.0.png
